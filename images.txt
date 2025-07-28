@@ -1,1 +1,3 @@
+nginx
+#支持私库
 siutin/stable-diffusion-webui-docker
